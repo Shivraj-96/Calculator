@@ -1,0 +1,67 @@
+.calsy{
+    width: 35vw;
+    height: 100vh;
+} 
+.display{
+    width: 100%;
+    height: 20%;
+    color: white;
+    background-color: #2A2522;
+    border: 3px solid black;
+}
+.main-content{
+    width: 100%;
+    height: 70vh;
+    background-color: black;
+    border: 3px solid black;
+}
+
+.box-1{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.box-2{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box-3{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box-4{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box-5{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.value{
+    width: 24%;
+    height: 100%;
+    border-radius: 5px;
+    background-color: gray;
+    color: white;
+    font-size:16px;
+    font-weight: 500;
+}
+.col{
+    background-color: #2a2522;
+}
+.value:hover{
+    background-color: #2A2522;
+}
+.btn-size{
+    font-size:1.5rem;
+}
